@@ -35,7 +35,7 @@ The objective of this analysis is to perform data cleaning and exploratory data 
 To run the analysis:
 1. Download the dataset from the Kaggle link provided.
 2. Clone or download this repository to your local machine.
-3. Open the Jupyter notebook `Titanic_Data_Cleaning_and_EDA.ipynb` using Jupyter Notebook or JupyterLab.
+3. Open the Jupyter notebook `task-02.ipynb` using Jupyter Notebook or JupyterLab.
 4. Execute each cell in the notebook to perform data cleaning and exploratory data analysis.
 
 ## Conclusion
